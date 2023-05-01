@@ -1,6 +1,6 @@
 nsepy==0.8
 mysql-connector-python==8.0.21
-Flask==1.1.2
+Flask==2.3.2
 Flask-Cors==3.0.9
 cython
 statsmodels==0.12.0
